@@ -13,6 +13,7 @@
 		09951A511EDE327100FA6BD1 /* Task_It_.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 09951A4F1EDE327100FA6BD1 /* Task_It_.xcdatamodeld */; };
 		09951A531EDE327100FA6BD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09951A521EDE327100FA6BD1 /* Assets.xcassets */; };
 		09951A561EDE327100FA6BD1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09951A541EDE327100FA6BD1 /* LaunchScreen.storyboard */; };
+		09951A5E1EDE337A00FA6BD1 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09951A5D1EDE337A00FA6BD1 /* Task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		09951A521EDE327100FA6BD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		09951A551EDE327100FA6BD1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		09951A571EDE327100FA6BD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		09951A5D1EDE337A00FA6BD1 /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				09951A4A1EDE327100FA6BD1 /* ViewController.swift */,
 				09951A4C1EDE327100FA6BD1 /* Main.storyboard */,
 				09951A521EDE327100FA6BD1 /* Assets.xcassets */,
+				09951A5D1EDE337A00FA6BD1 /* Task.swift */,
 				09951A541EDE327100FA6BD1 /* LaunchScreen.storyboard */,
 				09951A571EDE327100FA6BD1 /* Info.plist */,
 				09951A4F1EDE327100FA6BD1 /* Task_It_.xcdatamodeld */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				09951A5E1EDE337A00FA6BD1 /* Task.swift in Sources */,
 				09951A4B1EDE327100FA6BD1 /* ViewController.swift in Sources */,
 				09951A491EDE327100FA6BD1 /* AppDelegate.swift in Sources */,
 				09951A511EDE327100FA6BD1 /* Task_It_.xcdatamodeld in Sources */,
