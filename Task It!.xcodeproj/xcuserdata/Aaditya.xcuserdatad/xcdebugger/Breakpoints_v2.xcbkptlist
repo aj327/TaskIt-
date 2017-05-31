@@ -10,13 +10,154 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Task It!/Task.swift"
-            timestampString = "517878683.502411"
+            timestampString = "517880207.46079"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "11"
             endingLineNumber = "11"
             landmarkName = "Task"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task_It_.Task.__deallocating_deinit"
+                  moduleName = "Task It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aaditya/Desktop/Task%20It!/Task%20It!/Task.swift"
+                  timestampString = "517938418.177987"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task_It_.Task.deinit"
+                  moduleName = "Task It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aaditya/Desktop/Task%20It!/Task%20It!/Task.swift"
+                  timestampString = "517938418.183043"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task_It_.Task.init () -&gt; Task_It_.Task"
+                  moduleName = "Task It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aaditya/Desktop/Task%20It!/Task%20It!/Task.swift"
+                  timestampString = "517938418.186013"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task_It_.Task.__allocating_init () -&gt; Task_It_.Task"
+                  moduleName = "Task It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aaditya/Desktop/Task%20It!/Task%20It!/Task.swift"
+                  timestampString = "517938418.18934"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task It!/Task.swift"
+            timestampString = "517880791.045727"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Task"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task_It_.Task.name.getter : Swift.String"
+                  moduleName = "Task It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aaditya/Desktop/Task%20It!/Task%20It!/Task.swift"
+                  timestampString = "517938418.19995"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task_It_.Task.name.setter : Swift.String"
+                  moduleName = "Task It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aaditya/Desktop/Task%20It!/Task%20It!/Task.swift"
+                  timestampString = "517938418.203228"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task_It_.Task.init () -&gt; Task_It_.Task"
+                  moduleName = "Task It!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aaditya/Desktop/Task%20It!/Task%20It!/Task.swift"
+                  timestampString = "517938418.20627"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task It!/ViewController.swift"
+            timestampString = "517938416.984768"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "createTasks()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

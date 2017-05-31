@@ -14,6 +14,8 @@
 		09951A531EDE327100FA6BD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09951A521EDE327100FA6BD1 /* Assets.xcassets */; };
 		09951A561EDE327100FA6BD1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09951A541EDE327100FA6BD1 /* LaunchScreen.storyboard */; };
 		09951A5E1EDE337A00FA6BD1 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09951A5D1EDE337A00FA6BD1 /* Task.swift */; };
+		09951A601EDE3D6000FA6BD1 /* CreateTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09951A5F1EDE3D6000FA6BD1 /* CreateTaskViewController.swift */; };
+		09951A621EDF1A7300FA6BD1 /* CompleteTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09951A611EDF1A7300FA6BD1 /* CompleteTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		09951A551EDE327100FA6BD1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		09951A571EDE327100FA6BD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		09951A5D1EDE337A00FA6BD1 /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		09951A5F1EDE3D6000FA6BD1 /* CreateTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateTaskViewController.swift; sourceTree = "<group>"; };
+		09951A611EDF1A7300FA6BD1 /* CompleteTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompleteTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,11 +64,13 @@
 			children = (
 				09951A481EDE327100FA6BD1 /* AppDelegate.swift */,
 				09951A4A1EDE327100FA6BD1 /* ViewController.swift */,
+				09951A5F1EDE3D6000FA6BD1 /* CreateTaskViewController.swift */,
+				09951A611EDF1A7300FA6BD1 /* CompleteTaskViewController.swift */,
 				09951A4C1EDE327100FA6BD1 /* Main.storyboard */,
-				09951A521EDE327100FA6BD1 /* Assets.xcassets */,
 				09951A5D1EDE337A00FA6BD1 /* Task.swift */,
 				09951A541EDE327100FA6BD1 /* LaunchScreen.storyboard */,
 				09951A571EDE327100FA6BD1 /* Info.plist */,
+				09951A521EDE327100FA6BD1 /* Assets.xcassets */,
 				09951A4F1EDE327100FA6BD1 /* Task_It_.xcdatamodeld */,
 			);
 			path = "Task It!";
@@ -144,8 +150,10 @@
 			files = (
 				09951A5E1EDE337A00FA6BD1 /* Task.swift in Sources */,
 				09951A4B1EDE327100FA6BD1 /* ViewController.swift in Sources */,
+				09951A621EDF1A7300FA6BD1 /* CompleteTaskViewController.swift in Sources */,
 				09951A491EDE327100FA6BD1 /* AppDelegate.swift in Sources */,
 				09951A511EDE327100FA6BD1 /* Task_It_.xcdatamodeld in Sources */,
+				09951A601EDE3D6000FA6BD1 /* CreateTaskViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

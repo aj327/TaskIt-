@@ -9,6 +9,6 @@
 import Foundation
 
 class Task {
-    var taskName = ""
+    var name = "Here is the task name"
     var taskImportance = false
 }
