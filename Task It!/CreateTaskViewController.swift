@@ -20,7 +20,7 @@ class CreateTaskViewController: UIViewController {
     
     // connection to previous VC
     
-    var previousVC = ViewController()
+   
         
         
     override func viewDidLoad() {
@@ -32,16 +32,19 @@ class CreateTaskViewController: UIViewController {
     
     @IBAction func addTaskTapped(_ sender: Any) {
         // create a task with task from outlet info
+        //core data usage
         
-        let task = Task()
+        let context = (UIApplication.shared.delegate as! AppDelegate).persistentContainer.viewContext
+        
+        let task = Task(context: context)
+        
         task.name = taskName.text!
         task.taskImportance = importanceSwitch.isOn
+        (UIApplication.shared.delegate as! AppDelegate).saveContext()
+        
         
     
-        // add new task to array of tasks in previous view controller
-        previousVC.tasks.append(task)
-        previousVC.taskTableView.reloadData()
-        
+        // pop back
         // pop view controller so you go back to view of tasks after adding a task
         navigationController!.popViewController(animated: true)
     }
